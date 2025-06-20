@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devidas Raikar
-- 👀 I’m interested in C#,.Net Development
+- 👀 I’m interested in Data Analyst
 
 <!---
 deva457/deva457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
